@@ -3,5 +3,5 @@ Hello, world!
 
 How to build
 
-- $ javac GitHub.java
-- $ java GitHub
+- $ javac GitHubTest.java
+- $ java GitHubTest
